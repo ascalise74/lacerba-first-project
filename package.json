@@ -10,5 +10,8 @@
     "lacerba"
   ],
   "author": "ascalise",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/ascalise74/lacerba-first-project.git"
+  }
 }
