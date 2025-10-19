@@ -13,5 +13,13 @@
   "license": "ISC",
   "repository": {
     "url": "https://github.com/ascalise74/lacerba-first-project.git"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.1.0",
+    "@types/faker": "^6.6.8",
+    "@types/node": "^24.8.1"
   }
 }
